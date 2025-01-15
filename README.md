@@ -33,8 +33,19 @@ Github stats
  <!-- ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=riddhiathreya&limit=5&theme=dark&combine_all_yearly_contributions=true) -->
 
+## Connect with me <img height="100" width="200" src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px">
+&emsp;
+  <a href="https://www.linkedin.com/in/riddhi-athreya/">
+    <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg"/> 
+ </a>
+ &emsp;
+ <a href="mailto:athreya.ri@northeastern.edu">
+    <img src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg"/>
+ </a>
+ &emsp;
+ 
 ---
-[![](https://visitcount.itsvg.in/api?id=RiddhiAthreya&icon=0&color=0)](https://visitcount.itsvg.in)
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=riddhiathreya&label=Profile%20views&color=0e75b6&style=flat" alt="riddhiathreya" /> </p>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
